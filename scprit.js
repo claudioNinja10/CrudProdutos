@@ -23,3 +23,12 @@ function cadastrar(){
     nome.focus()
 
 }
+
+function pesquisar(){
+    let pesquisa = nome.value
+
+
+    console.log(pesquisa);
+
+}
+
